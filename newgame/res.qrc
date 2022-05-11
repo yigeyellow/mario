@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res.qrc</file>
+        <file>fire/bigfire.png</file>
+    </qresource>
+    <qresource prefix="/fire">
+        <file>fire/bigfire.png</file>
+        <file>fire/fire.png</file>
+        <file>fire/fire_source.png</file>
+    </qresource>
+    <qresource prefix="/mario">
+        <file>mario/fly.png</file>
+        <file>mario/fly_left.png</file>
+        <file>mario/gameover.png</file>
+        <file>mario/quick.png</file>
+        <file>mario/quick_left.png</file>
+        <file>mario/run.png</file>
+        <file>mario/stand.png</file>
+        <file>mario/stand_left.png</file>
+    </qresource>
+    <qresource prefix="/monster">
+        <file>monster/monster1.png</file>
+        <file>monster/monster1_left.png</file>
+        <file>monster/monster2.png</file>
+    </qresource>
+    <qresource prefix="/obstacle">
+        <file>obstacle/brick.png</file>
+        <file>obstacle/ground.png</file>
+        <file>obstacle/money.png</file>
+        <file>obstacle/mushroom1.png</file>
+        <file>obstacle/mushroom2.png</file>
+        <file>obstacle/something.png</file>
+        <file>obstacle/win.png</file>
+    </qresource>
+</RCC>
